@@ -9,7 +9,7 @@ import android.content.SharedPreferences;
  */
 public class CityPreferences {
 
-    SharedPreferences prefs;
+    public SharedPreferences prefs;
     /**
      * CityPreference constructor
      * @param Activity activity
